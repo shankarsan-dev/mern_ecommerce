@@ -1,1 +1,1 @@
-# mern_ecommerce
+# Binkeyit Full Stack MERN App
